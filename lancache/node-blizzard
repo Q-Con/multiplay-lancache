@@ -1,5 +1,4 @@
 # Blizzard Node
-include lancache/resolver;
 
 # Blizzard downloader:
 # * Uses a single archive file with random range requests.

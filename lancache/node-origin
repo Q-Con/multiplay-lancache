@@ -1,5 +1,4 @@
 # Origin Node
-include lancache/resolver;
 
 # Origin downloader:
 # * Blocks caching so we have to ignore Expires and Cache-Control.

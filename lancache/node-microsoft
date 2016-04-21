@@ -1,5 +1,4 @@
 # Microsoft Node
-include lancache/resolver;
 
 # Xbox One downloader:
 # * Uses a single archive file with range requests.

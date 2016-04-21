@@ -1,5 +1,4 @@
 # Default Node
-include lancache/resolver;
 include lancache/cache-key-default;
 
 location / {

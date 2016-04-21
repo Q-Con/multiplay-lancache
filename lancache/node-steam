@@ -1,5 +1,4 @@
 # Steam Node
-include lancache/resolver;
 
 location /depot/ {
 	# Currently Steam uses a default expires of now, but does set

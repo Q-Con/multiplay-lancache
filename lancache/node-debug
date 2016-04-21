@@ -1,5 +1,4 @@
 # Debug Node
-include lancache/resolver;
 log_subrequest on;
 
 location / {
